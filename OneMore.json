@@ -2,7 +2,7 @@
   "id": "one_more",
   "name": "OneMore",
   "tagline": "Haz siempre una más",
-  "description": "La app de gimanasio definitiva. Ten tu rutina personalizada, lleva un control de tus repeticions y tus pesos. /n Lleva un control de tus pasos y calorias. /n Completa desafios, gana monedas y desbloquea objetos de personalizacion ",
+  "description": "La app de gimnasio definitiva. Crea y personaliza tus rutinas, registra tus pesos y repeticiones y sigue tu progreso día tras día. Controla también tus pasos, calorías y actividad diaria. Completa desafíos, consigue monedas y desbloquea fondos y objetos exclusivos de personalización para tu perfil.",
   "iconUrl": "https://raw.githubusercontent.com/TU_USUARIO/app-aventura/main/icono.png",
   "version": "1.0.0",
   "downloads": "50K+",
@@ -10,10 +10,10 @@
   "ratingCount": "8,900",
   "classification": "+12 años",
   "apkUrl": "https://raw.githubusercontent.com/TU_USUARIO/app-aventura/main/app-release.apk",
-  "category": "Juegos",
+  "category": "Salud y fitness",
   "isFeatured": false,
   "screenshots": [
     "https://raw.githubusercontent.com/TU_USUARIO/app-aventura/main/foto1.png"
   ],
-  "whatsNew": "Nuevo nivel 'La cueva oscura' y mejoras de rendimiento."
+  "whatsNew": "Se añadieron nuevos fondos de personalización, sistema de racha diaria, mejoras visuales y optimizaciones de rendimiento."
 }
