@@ -1,0 +1,19 @@
+{
+  "id": "app_002",
+  "name": "Aventura Épica",
+  "tagline": "Explora mundos mágicos",
+  "description": "Adéntrate en un mundo de fantasía, derrota dragones y encuentra tesoros ocultos en este RPG de acción en 2D.",
+  "iconUrl": "https://raw.githubusercontent.com/TU_USUARIO/app-aventura/main/icono.png",
+  "version": "2.1.0",
+  "downloads": "50K+",
+  "rating": 4.5,
+  "ratingCount": "8,900",
+  "classification": "+12 años",
+  "apkUrl": "https://raw.githubusercontent.com/TU_USUARIO/app-aventura/main/app-release.apk",
+  "category": "Juegos",
+  "isFeatured": false,
+  "screenshots": [
+    "https://raw.githubusercontent.com/TU_USUARIO/app-aventura/main/foto1.png"
+  ],
+  "whatsNew": "Nuevo nivel 'La cueva oscura' y mejoras de rendimiento."
+}
