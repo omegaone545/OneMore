@@ -4,7 +4,7 @@
   "tagline": "Haz siempre una más",
   "description": "La app de gimnasio definitiva. Crea y personaliza tus rutinas, registra tus pesos y repeticiones y sigue tu progreso día tras día. Controla también tus pasos, calorías y actividad diaria. Completa desafíos, consigue monedas y desbloquea fondos y objetos exclusivos de personalización para tu perfil.",
   "iconUrl": "https://raw.githubusercontent.com/omegaone545/OneMore/main/OneMore/Logo/LogoOneMore.png",
-  "version": "0.1.0",
+  "version": "1.0.5",
   "downloads": "50K+",
   "rating": 4.5,
   "ratingCount": "8,900",
@@ -20,5 +20,5 @@
     "https://raw.githubusercontent.com/omegaone545/OneMore/main/OneMore/Capturas/quinta.png"
     
   ],
-  "whatsNew": "• Nuevos fondos de personalización\n• Sistema de racha diaria\n• Mejoras visuales\n• Optimización de rendimiento"
+  "whatsNew": "• Nuevos fondos de personalización\n• Sistema de racha diaria\n• Mejoras visuales\n• Optimización de rendimiento\n •Mejoras en el contador de pasos"
 }
